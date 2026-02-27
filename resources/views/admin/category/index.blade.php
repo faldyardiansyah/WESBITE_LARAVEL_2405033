@@ -4,7 +4,7 @@
             <!-- Page Header -->
             <div class="flex items-center justify-between mb-8">
                 <div>
-                    <h1 class="text-3xl font-semibold text-gray-800">Categories</h1>
+                    <h1 class="text-3xl font-semibold text-gray-800">Categories Management</h1>
                     <p class="text-gray-500">Manage and organize your categories efficiently.</p>
                 </div>
                 <button

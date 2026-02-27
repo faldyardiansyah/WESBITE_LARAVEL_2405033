@@ -1,3 +1,4 @@
+# This workflow deploys a Laravel application to a remote server whenever changes are pushed to the master branch.
 name: Deploy Laravel App
 
 on:

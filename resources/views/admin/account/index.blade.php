@@ -6,7 +6,7 @@
             <div class="flex items-center justify-between mb-8">
                 <div>
                     <h1 class="text-3xl font-semibold text-gray-800">User Profile</h1>
-                    <p class="text-gray-500">Update your public information and social profiles.</p>
+                    <p class="text-gray-500">Update your account details.</p>
                 </div>
 
                 <a href="{{ url()->previous() }}"

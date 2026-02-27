@@ -22,7 +22,7 @@ jobs:
           port: ${{ secrets.SSH_PORT }}
           script: |
             cd /var/www/praktikum_faldy
-            # penampilan log untuk debugging
+            # penampilan log untuk 
             php artisan down
             git pull origin master
             composer install --no-dev --prefer-dist --no-interaction --optimize-autoloader
